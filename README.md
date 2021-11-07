@@ -31,5 +31,17 @@ Developers can create containers without Docker, but the platform makes it easie
 
 * Ansible — Configuration Management and Deployment  
 
-* Terraform - An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files. 
- 
+* Terraform - An open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.  
+
+
+
+---
+**Day 1: Introduction to Python, Git and Github** 
+---
+
+
+---
+**Day 2: Introduction to Fast API** 
+--- 
+
+
