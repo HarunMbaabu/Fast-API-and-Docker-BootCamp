@@ -14,6 +14,7 @@ What you are expected to learn on Day 1:
 * Learn how to open a “pull request”.
 * Learn how to “Merge” your branch to the master branch 
 
+References 👇🏻: 
 
 Few announcements for those who didn’t join the onboarding session on Saturday:
 To get the certificate of completion you have to at least complete the first week of the boot camp and track your progress in these google forms :point_right::skin-tone-2: https://forms.gle/1TvMYRMvo3CrNkaN7, that is today, Monday to Friday, write and submit at least one technical article on a topic which will be given out tomorrow. 
