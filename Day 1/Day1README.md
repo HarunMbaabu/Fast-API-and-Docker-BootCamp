@@ -1,4 +1,4 @@
-Hello @everyone, welcome to our *Python Fast API and Docker BootCamp Day 1* ,  We usually starts our boot camp by learning, Git and GitHub here is what you are suppose to at least look at on day 1 👇🏻: 
+Hello @everyone, welcome to our **Python Fast API and Docker BootCamp Day 1** ,  We usually starts our boot camp by learning, Git and GitHub here is what you are suppose to at least look at on day 1 👇🏻: 
 
 Day 1: Introduction to Python, Git and Github. 
 
