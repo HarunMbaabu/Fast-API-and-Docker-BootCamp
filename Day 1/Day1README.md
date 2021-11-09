@@ -33,4 +33,103 @@ Important Link: 
 
 Every evening we will be sharing  reference materials and  you can join our 20 minutes  quick  catch up meeting everyday at 8:00 PM we will be using the same link we used on Saturday.  All the best, may your smart hard work pay
 
-After the two weeks of learning, there will be a capstone project that you have to create in 5 days, and the best 5  projects gets a give away from Lux Academy and Data Science East Africa while the best project gets a giveaway + a boot paperback:
+After the two weeks of learning, there will be a capstone project that you have to create in 5 days, and the best 5  projects gets a give away from Lux Academy and Data Science East Africa while the best project gets a giveaway + a boot paperback.
+
+
+Python Tutorials: 
+
+
+### **Git and GitHub Basics:**
+Git is a version control system which comes handy when you're writing code as a team or independently. Some features that git allows includes; creation, merging, and deletion of multiple local branches that can be entirely independent of each other.
+
+**Installation**
+Visit [https://git-scm.com/downloads] and use the git installer and follow the steps, after you have  successfully installed, check for successful installation and version using thr following ccommand.
+
+```python
+git --version
+```
+**Set global configurations**
+Now lets configure git by running the following global commands.
+
+```python
+git config --global user.name "user name"
+git config --global user.email "email address"
+```
+
+**git init**
+Initializes your local git repository as your master.
+
+**git add . or git add "file name"**
+To add all the files to staging area, run
+```python
+git add .
+```
+or add specific file using
+
+```python
+git add <file name>
+```
+
+**git commit -m "commit message"**
+To save the changes to your repository with a message which describes the commit.
+
+**git remote add origin "repository URL"**
+
+When you have an online repository and would like to link it to your local repository, you can do so by running.
+
+git remote add origin <repository URL>
+          
+**git push -u origin master**
+          
+To push the local repository to the online repository.
+
+**git remote rename origin upstream**
+Running this command will rename the online repository. Then add the new URL using "git remote add origin <repository URL" and push the local to the online using "git push -u origin master"
+
+**git clone "repository URL"**
+To clone an online repository to your local machine.
+
+**git revert**
+Will reverse changes made by an earlier commit.
+
+**git status**
+To view the current status of the repository.
+
+**git checkout**
+View file from last commit and add it to staging area.
+
+**git restore --staged**
+Unstage files from last commit.
+
+**git restore**
+Restore file to original last commit.
+
+**git log --online**
+Show all commits.
+
+git log
+Display detail information about all commits.
+
+git -b "branch name"
+Running this command will create a new branch.
+
+**git branch -a**
+Show all branches.
+
+**git checkout "branch name"**
+Will move git from the master branch to the new branch.
+
+**git merge "branch name"**
+If there are new changes that needs to be added to the master, you can do so by switching back to the master branch.
+
+**git branch -a**
+To list branches.
+
+**git pull**
+To match the remote repository to the local.
+
+
+
+
+
+
