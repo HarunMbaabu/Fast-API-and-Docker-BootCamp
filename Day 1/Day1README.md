@@ -84,9 +84,10 @@ git remote add origin <repository URL>
 To push the local repository to the online repository.
 
 **git remote rename origin upstream**
-Running this command will rename the online repository. Then add the new URL using "git remote add origin <repository URL" and push the local to the online using "git push -u origin master"
+Running this command will rename the online repository. Then add the new URL using "git remote add origin <repository URL>" and push the local to the online using "git push -u origin master"
 
-**git clone "repository URL"**
+**git clone <repository URL > **
+          
 To clone an online repository to your local machine.
 
 **git revert**
@@ -107,7 +108,8 @@ Restore file to original last commit.
 **git log --online**
 Show all commits.
 
-git log
+**git log**
+          
 Display detail information about all commits.
 
 git -b "branch name"
@@ -117,15 +119,19 @@ Running this command will create a new branch.
 Show all branches.
 
 **git checkout "branch name"**
+          
 Will move git from the master branch to the new branch.
 
 **git merge "branch name"**
+          
 If there are new changes that needs to be added to the master, you can do so by switching back to the master branch.
 
 **git branch -a**
+          
 To list branches.
 
 **git pull**
+          
 To match the remote repository to the local.
 
 
