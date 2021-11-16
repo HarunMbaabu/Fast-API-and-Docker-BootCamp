@@ -72,6 +72,6 @@ def test_invalid_id2():
     response = client.get("/fruit/abc")
     assert response.status_code == 422
     assert response.json()["detail"][0]["msg"] == "value is not a valid integer"
+```
 
-
-Hopefully, you can now see how easy it is to add automated tests for your API endpoints. For further information, refer to the official FastAPI tutorial on Testing. 
+Hopefully, you can now see how easy it is to add automated tests for your API endpoints. For further information, refer to the [official FastAPI tutorial on Testing](https://fastapi.tiangolo.com/tutorial/testing/). 
