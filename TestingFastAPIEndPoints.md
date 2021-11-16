@@ -1,4 +1,4 @@
-Testing FastAPI Endpoints
+## **Testing FastAPI Endpoints**
  
 
 Once you have developed your Applications Programming Interfaces(APIs) using Fast API, the next step is to consider adding automated tests for your API endpoints. You can achieve this using pytest and a TestClient class derived from Starlette.
