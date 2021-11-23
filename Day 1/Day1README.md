@@ -42,8 +42,9 @@ Python Tutorials:
 ### **Git and GitHub Basics:**
 Git is a version control system which comes handy when you're writing code as a team or independently. Some features that git allows includes; creation, merging, and deletion of multiple local branches that can be entirely independent of each other.
 
-**Installation**
-Visit [https://git-scm.com/downloads] and use the git installer and follow the steps, after you have  successfully installed, check for successful installation and version using thr following ccommand.
+### **Installation**
+
+Visit [https://git-scm.com/downloads] and use the git installer and follow the steps, after you have  successfully installed, check for successful installation and version using the following command.
 
 ```python
 git --version
